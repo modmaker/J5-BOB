@@ -21,7 +21,7 @@ Most drivers use either **plain TTL/CMOS** level inputs, or **opto couplers** fo
 
 All components on the J5-BOB are though hole parts *(not SMD)* for easy (DIY) assembly.
 
-One or two transistors and up to three resistors form the buffer and optional inverter for the enable signal. The most common configuration *(common anode, sinking drivers with inactive/inverted enable inputs)* requires only a single resistor and one transistor on the board (see image below). See below or the [schematics]() for the assembly options.
+One or two transistors and up to three resistors form the buffer and optional inverter for the enable signal. The most common configuration *(common anode, sinking drivers with inactive/inverted enable inputs)* requires only a single resistor and one transistor on the board (see image below). See below or the [schematics](tree/master/doc) for the assembly options.
 
 ![](http://imageshack.com/a/img673/4877/45wZPE.jpg)
 
