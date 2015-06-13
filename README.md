@@ -62,7 +62,7 @@ If the **input LEDs** have the **common** on the **cathode** (negative) side, th
 |   | X |   | X | R1, Q3 |
 |   | X | X |   | R2, R3, R4, Q1, Q3 |
 | X |   |   | X | R2, R3, R4, Q1, Q2 |
-| X |   | X |   | R2, Q2 |
+| X |   | X |   | R1, Q2 |
 
 Note that the sink configuration requires jumper JP4 on the BeBoPr++ to be closed, otherwise there is no +5 Volt supply present on J5.
 
